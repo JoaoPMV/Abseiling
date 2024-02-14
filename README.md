@@ -26,7 +26,7 @@ I've studied JS and soon I'll add JS code on the Project.
 
 ```bash
 # Clone the Project
-$ git clone https://github.com/JoaoPMV/Psychology.git
+$ git clone https://github.com/JoaoPMV/Abseiling.git
 ```
 
 ```bash
