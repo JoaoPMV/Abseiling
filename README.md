@@ -31,7 +31,7 @@ $ git clone https://github.com/JoaoPMV/Abseiling.git
 
 ```bash
 # Enter Directory
-$ cd Psychology
+$ cd Abseiling
 ```
 
 ```bash
