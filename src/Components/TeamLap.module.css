@@ -1,0 +1,26 @@
+.caixa {
+  width: 600px;
+  height: 150px;
+  display: flex;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 1rem gray;
+}
+
+.caixaFoto {
+  width: 160px;
+  height: 150px;
+}
+
+.bio {
+  width: 440px;
+  height: 150px;
+  padding: 10px 15px;
+}
+
+.namebio {
+  font-weight: bold;
+  font-size: 17px;
+  padding-top: 10px;
+  color: rgb(41, 40, 40);
+}

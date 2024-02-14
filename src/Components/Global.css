@@ -1,0 +1,142 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.fundoBannerSmart {
+  background-color: orangered;
+}
+
+.fundoFooter {
+  background-color: aqua;
+}
+
+.fundoNextEvents {
+  background-color: brown;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.teamSmart {
+  background-color: orangered;
+  padding: 15px;
+}
+
+.lastEvent {
+  background-color: orangered;
+}
+
+.footerContact {
+  font-size: 15px;
+  margin-top: 0.5rem;
+  color: white;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.fundoFooterSmart {
+  background-color: orangered;
+}
+
+.infoFooterSmart {
+  font-size: 13px;
+  color: white;
+  margin: 5px;
+  padding-left: 20px;
+}
+
+.iconFooterSmart {
+  margin: 2px;
+  font-size: 20px;
+  color: white;
+}
+
+.tituloBanner {
+  color: white;
+
+  padding-top: 35px;
+  font-size: 30px;
+  font-family: "Neucha", cursive;
+}
+
+.fontePrincipal {
+  font-family: "Neucha", cursive;
+  font-size: 35px;
+}
+
+.fonteFooter {
+  font-family: "Neucha", cursive;
+  font-size: 25px;
+}
+
+.teste {
+  font-size: 18px;
+  margin-right: 15px;
+}
+
+.descricaoBanner {
+  color: white;
+  padding-bottom: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+  line-height: 180%;
+}
+
+.ancora {
+  text-decoration: none;
+  color: white;
+}
+
+.buceta {
+  text-align: justify;
+}
+
+.logotipo {
+  width: 90px;
+  margin-left: 10px;
+}
+
+.anchor a {
+  text-decoration: none;
+  color: rgb(30, 29, 29);
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.anchorLap a {
+  text-decoration: none;
+  color: rgb(30, 29, 29);
+  margin-left: 25px;
+  font-size: 18px;
+}
+
+.anchorLap a:hover {
+  cursor: pointer;
+  color: rgb(134, 36, 1);
+}
+
+.ultimosEventos {
+  font-family: "Neucha", cursive;
+  font-size: 30px;
+}
+
+.cascading {
+  font-family: "Neucha", cursive;
+  font-size: 22px;
+  color: beige;
+}
+
+.mao:hover {
+  cursor: pointer;
+}
+
+.iconFooterLaptop {
+  font-size: 25px;
+}

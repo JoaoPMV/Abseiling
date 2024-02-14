@@ -1,0 +1,8 @@
+.box {
+  width: 14rem;
+  box-shadow: 3px 3px 1rem gray;
+  margin-bottom: 20px;
+}
+.onde {
+  text-align: center;
+}
